@@ -1,0 +1,27 @@
+{
+    "name": "streamers",
+    "description": "Stream classes library",
+    "version": "0.1",
+    "maintainers": [
+        {
+            "name": "Graham Daws",
+            "email": "graham.daws@gmail.com"
+        }
+    ],
+    "keywords": [
+        "stream",
+        "memorystream", 
+        "bufferstream", 
+        "proactor"
+    ],
+    "dependencies": {
+        "underscore":"1.2.3",
+        "vows": "0.6.1"
+    },
+    "licenses":[
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ]
+}
