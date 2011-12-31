@@ -23,5 +23,11 @@
             "type": "MIT",
             "url": "http://www.opensource.org/licenses/MIT"
         }
+    ],
+    "repositories": [
+        {
+            "type":"git",
+            "url": "https://gdaws@github.com/gdaws/node-streamers.git"
+        }
     ]
 }
