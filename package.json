@@ -1,7 +1,7 @@
 {
     "name": "streamers",
     "description": "Stream classes library",
-    "version": "0.1",
+    "version": "0.1.0",
     "maintainers": [
         {
             "name": "Graham Daws",
@@ -24,10 +24,8 @@
             "url": "http://www.opensource.org/licenses/MIT"
         }
     ],
-    "repositories": [
-        {
+    "repository":{
             "type":"git",
             "url": "https://gdaws@github.com/gdaws/node-streamers.git"
-        }
-    ]
+    }
 }
